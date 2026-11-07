@@ -41,6 +41,7 @@ This web application displays lists of board games and their reviews. While anyo
 - CRUD (Create, Read, Update, Delete) operations for managing data in the database
 - Schema.sql file to customize the schema and input initial data
 - Thymeleaf Fragments to reduce redundancy of repeating HTML elements (head, footer, navigation)
+- CI/CD pipeline deployed to EKS
 
 ## How to Run
 
