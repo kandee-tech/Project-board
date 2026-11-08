@@ -42,6 +42,7 @@ This web application displays lists of board games and their reviews. While anyo
 - Schema.sql file to customize the schema and input initial data
 - Thymeleaf Fragments to reduce redundancy of repeating HTML elements (head, footer, navigation)
 - CI/CD pipeline deployed to EKS.
+- dev
 
 ## How to Run
 
