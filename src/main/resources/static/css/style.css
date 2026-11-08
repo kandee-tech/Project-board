@@ -1,3 +1,7 @@
+   body {
+       background-color: #dbeafe !important;
+   }
+
 .error {
     color: red;
 }
